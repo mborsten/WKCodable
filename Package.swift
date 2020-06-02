@@ -2,7 +2,7 @@
 import PackageDescription
 
 var package = Package(
-    name: "WKCodable",
+    name: "wkcodable",
     products: [
         .library(name: "WKCodable", targets: ["WKCodable"]),
     ],
